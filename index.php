@@ -1,5 +1,5 @@
 <?php
 echo "hello";
-ec "djflksdjflsdakfjksd";
+echo "thi is how to fix it stuped teacher";
 
 ?>
